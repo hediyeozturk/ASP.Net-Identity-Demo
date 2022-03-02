@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DTECH\\Documents\\GitHub\\ASP.Net-Identity-Demo\\Identity.Management\\Identity.Management.JwtApp\\Identity.Management.JwtApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DTECH\\Documents\\GitHub\\ASP.Net-Identity-Demo\\Identity.Management\\Identity.Management.JwtApp\\Identity.Management.JwtApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DTECH\\Documents\\GitHub\\ASP.Net-Identity-Demo\\Identity.Management\\Identity.Management.JwtApp\\Identity.Management.JwtApp.csproj",
+        "projectName": "Identity.Management.JwtApp",
+        "projectPath": "C:\\Users\\DTECH\\Documents\\GitHub\\ASP.Net-Identity-Demo\\Identity.Management\\Identity.Management.JwtApp\\Identity.Management.JwtApp.csproj",
+        "packagesPath": "C:\\Users\\DTECH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DTECH\\Documents\\GitHub\\ASP.Net-Identity-Demo\\Identity.Management\\Identity.Management.JwtApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

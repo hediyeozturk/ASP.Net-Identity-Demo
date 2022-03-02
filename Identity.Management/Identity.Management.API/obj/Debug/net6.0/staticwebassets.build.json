@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HcEAyA9l8BpEQzLKQY3n3ZTgak+vyDhyaYTwMOaTZqI=",
+  "Source": "Identity.Management.API",
+  "BasePath": "_content/Identity.Management.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

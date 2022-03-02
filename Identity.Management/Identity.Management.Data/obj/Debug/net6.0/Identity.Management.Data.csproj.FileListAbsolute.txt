@@ -1,0 +1,14 @@
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\bin\Debug\net6.0\Identity.Management.Data.deps.json
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\bin\Debug\net6.0\Identity.Management.Data.dll
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\bin\Debug\net6.0\Identity.Management.Data.pdb
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.csproj.AssemblyReference.cache
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.AssemblyInfoInputs.cache
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.AssemblyInfo.cs
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.dll
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\refint\Identity.Management.Data.dll
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.pdb
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\ref\Identity.Management.Data.dll
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\bin\Debug\net6.0\Identity.Management.Data.runtimeconfig.json
+C:\Users\DTECH\Documents\GitHub\ASP.Net-Identity-Demo\Identity.Management\Identity.Management.Data\obj\Debug\net6.0\Identity.Management.Data.genruntimeconfig.cache
