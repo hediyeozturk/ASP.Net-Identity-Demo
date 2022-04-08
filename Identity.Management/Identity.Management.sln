@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Management.Data", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Management.API", "Identity.Management.API\Identity.Management.API.csproj", "{E9FC06C3-B20B-4EA0-A301-EA517BC75DB9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Management.UserUI", "Identity.Management.UserUI\Identity.Management.UserUI.csproj", "{2706DA92-821C-4944-A340-B32B364EDE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Management.UI", "Identity.Management.UI\Identity.Management.UI.csproj", "{74EB0BF3-8FAA-430F-9350-E9C3C8A3ABD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E9FC06C3-B20B-4EA0-A301-EA517BC75DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9FC06C3-B20B-4EA0-A301-EA517BC75DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9FC06C3-B20B-4EA0-A301-EA517BC75DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2706DA92-821C-4944-A340-B32B364EDE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2706DA92-821C-4944-A340-B32B364EDE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2706DA92-821C-4944-A340-B32B364EDE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2706DA92-821C-4944-A340-B32B364EDE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EB0BF3-8FAA-430F-9350-E9C3C8A3ABD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EB0BF3-8FAA-430F-9350-E9C3C8A3ABD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EB0BF3-8FAA-430F-9350-E9C3C8A3ABD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EB0BF3-8FAA-430F-9350-E9C3C8A3ABD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

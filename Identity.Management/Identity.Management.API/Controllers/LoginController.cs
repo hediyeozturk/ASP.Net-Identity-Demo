@@ -44,13 +44,13 @@ namespace Identity.Management.API.Controllers
 
         private IdentityUser Authenticate(UserLogin userLogin)
         {
-            
-            //var currentUser = UserConstants.Users.FirstOrDefault(o => o.UserName.ToLower() == userLogin.UserName.ToLower()
-            //         && o.Password == userLogin.Password);
-            //if (currentUser != null)
-            //{
-            //    return currentUser;
-            //}
+
+            var currentUser = UserConstants.Users.FirstOrDefault(o => o.UserName.ToLower() == userLogin.UserName.ToLower()
+                     && o.Password == userLogin.Password);
+            if (currentUser != null)
+            {
+                return currentUser;
+            }
 
             return null;
         }
